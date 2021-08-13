@@ -1,4 +1,5 @@
 # Elevator Challenge
+Exam requirement is upto level 6, but you can work upto level 9 if you want to.
 
 ## Description
 For this challenge, you will be implementing an API for an elevator with JavaScript. While the challenge might seem trivial, you will quickly find out all the nuances of the elevator world and be marveled that they work as well as they do. You cannot move on to the next Level unless you have completed the current Level (or made a valiant effort).
